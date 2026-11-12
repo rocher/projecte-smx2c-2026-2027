@@ -30,7 +30,7 @@ Cifrado con codifo SALT para evitar que los datos que sean robados sean entendib
 Tambien un lugar agradable para trabajar de forma compartida con los otros trabajadores online gracias a herramientas de trabajo online usaremos atlassian.
 
 Tendremos tambien una pagina para alguna posible solicitud o venta de algo.
-### Gymzero
+### [Gymzero](https://github.com/janpalahi-commits/GYM-ZERO)
 
 Jan Palahí · SMX2 · INS Palamós
 
