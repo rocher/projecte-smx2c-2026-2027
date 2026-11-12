@@ -8,28 +8,110 @@ Llista de projectes d'SMX2C del curs 2026-2027.
   - [Ro-Chess](#Ro-Chess), [ro-chess.cat](https://ro-chess.cat)
   - [Katal](#Katal), [katal.cat](https://katal.cat)
 
-### FerroNetwork
+### [FerroNetwork](https://github.com/LGZV1/projecte-smx2c-2026-2027/tree/Lucas-Y-Santi)
 
 Santi Osella y Lucas Gagliano · SMX2 · INS Palamós
-![Ferronetwork](image.png)
+![Ferronetwork](image.png) 
 
-FerroNetwork es una compañia de servicios (ya escogeremos de que) con una Intraned en la cual se basa este proyecto, la gracia del proyecto sera hacer dos servidores que puedan compartir informacion entre ellos y que solo se puedan conectar usuarios especializados desde un sitio permitido por la FerroNetwork.
+#### 1. De què va el projecte
+FerroNetwork es una compañia a gran escala que que se encarga de el servicios de seguridad y ciberseguridad centrado en el ambito tecnologico y fisico de la seguridad, para demostarr como funciona la compañia les mostarremos como funciona internamente FerroNetwork
 
-En la intraned de FerroNetwork se permitira que los usaurios dentro de ella puedan usar varias herramientas para poder trabajar entre ellos sin tener que acceder a drive, gmail o plataformas externas donde se pueda filtrar informacion o que otras compañias puedan verla y copiarla 
+El sistema que implementamos se llama "eye hunter" es un conjunto de normas junto a medidas de seguridad para evitar muchos problemas de brechas de seguridad (fisicas/digitale) o filtraciones de informacion relevante aparte de garantizar algunas medidas de defensa fisicas tecnologicas avanzadas conectadas con la red. Este sistema cumple los requisitos necesarios para dar una mayor seguridad a tus distritos y a tu red empresarial. 
 
-Todo lo que abarca:
+Por el lado digital lo principal que tenemos para la empresa es una Intraned que da a servidores la posibilidad de que puedan compartir informacion entre ellos y que solo se puedan conectar usuarios especificos desde un sitio permitido por su empresa ya sea: paises, pueblos ciudades o zonas más concretamente distritos o edificios.
 
-Una Intraned entre servidores.
+Cosas que no incluye el proyecto, la forma de trabajo de los trabajadores no es parte de nuestra responsabilidad como empresa ya que nosotros nos encargamos de proteger y asegurar la informacacion aparte brindando algunas herramientas pero no optimizamos la forma de trabajar de la gente ni el orden de los trabajadores o en cambio si la empresa necesita ayuda por cualquier tema de seguridad o que necesiten una explicacion para los trabajadores podremos ofrecer un pequeño curso y aparte os pdf de instrucciones
 
-VPN's de varios luagres para mayor seguirdad (Proton).
+en principio lo no habria nada posteriro y en otras empresas depende de la forma de trabajar ya podriamos adaptar el "eye hunter"
 
-Cortafuegos para evitar el robo de dato (Huntress).
+### 2.Cosas que abarca el proyecto de forma seccionada:
 
-Cifrado con codifo SALT para evitar que los datos que sean robados sean entendibles.
+1 Una Intraned entre servidores que contiene:
 
-Tambien un lugar agradable para trabajar de forma compartida con los otros trabajadores online gracias a herramientas de trabajo online usaremos atlassian.
+## Componentes individuales del sistema
 
-Tendremos tambien una pagina para alguna posible solicitud o venta de algo.
+Componentes:
+1A.Servidor de intranet	
+2B.Base de datos	
+3C.Servidor web	
+4D.VPN Proton	
+5E.Sistema de seguridad Huntress	
+6F.Sistema de autenticación	
+7G.Sistema de cifrado y hashing con SALT	
+8H.Equipos informáticos	
+9I.Router y firewall	
+10J.Plataforma Atlassian
+
+Tipo:
+1A.Software/servidor	
+2B.Software
+3C.Software/servidor
+4D.Software/servicio	
+5E.Software/servicio	
+6F.Software
+7G.Software
+8H.Hardware
+9I.Hardware/software	
+10J.Servicio cloud
+
+Función:
+1A.Permite compartir información interna.
+2B.Almacena usuarios e información empresarial.
+3C.Aloja la página web de FerroNetwork.
+4D.Permite conexiones remotas seguras.
+E5.Detecta y ayuda a responder ante amenazas en los equipos.
+6F.Comprueba la identidad de los usuarios.
+7G.Protege la información y las contraseñas.
+8H.Ordenadores y dispositivos utilizados por los trabajadores.
+9I.Gestionan y controlan las conexiones de red.
+10J.Facilita la colaboración y organización del trabajo.
+
+Componentes internos:
+- Servidor de intranet.
+- Base de datos empresarial.
+- Sistema de autenticación.
+- Equipos informáticos.
+- Firewall de la red.
+Componentes externos:
+- Proton VPN como proveedor de servicio.
+- Huntress como plataforma de seguridad.
+- Atlassian como plataforma de colaboración.
+- Clientes que acceden a la página web.
+
+### DE AQUI--------------------
+
+
+
+
+
+
+### LA DIAPOSITIVA 5 DEL POWERPOINT 6 COMO SE RELACIONAN QUE ES, NO ENTIENDO A QUE SE REFIERE
+
+
+
+
+
+
+
+
+### HASTA AQUI-----------------------
+### Quien utiliza el sistema 
+Actor
+1A.Administrador de sistemas	
+2B.Técnico de ciberseguridad
+3C.Trabajador de FerroNetwork
+4D.Director de la empresa	
+5E.Cliente	
+6F.Proveedores externos	
+
+Función
+1A.Gestiona servidores, usuarios y permisos.
+2B.Supervisa amenazas y protege la infraestructura.
+3C.Utiliza la intranet y las herramientas colaborativas.
+4D.Consulta información y supervisa el funcionamiento.
+5E.Accede a la web para realizar solicitudes o compras.
+6F.Proporcionan servicios como VPN, seguridad y almacenamiento cloud.
+
 ### Gymzero
 
 Jan Palahí · SMX2 · INS Palamós
