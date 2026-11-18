@@ -165,53 +165,37 @@ Volíem jugar un joc pero estava bloquejat, per això hem decidit fer aquesta p�
   ![Disseny Projecte](DissenyGraficProjecte.excalidraw.png)
  Fet per: David i Neal
 
-### Ro-Chess https://github.com/trec24/Ro-chess
+### [Ro-Chess](https://github.com/trec24/Ro-chess)
 
 
-####Avasto del projecto
+#### Abast del projecte
 
 Context
 
 1)
 
-a)Alguna vegada volies jugar als escacs i aquells microsegons no tan contat per el rendiment? docs el projecte es sobre el sistema d'escacs per web
+a)Alguna vegada volies jugar als escacs i aquells microsegons no tan contat pel rendiment? Doncs el projecte és sobre el sistema d'escacs per web.
 
-b)El projecte serveix per aconseguir una millor experiencia per als escacs
-Aquest projecte
+b)El projecte serveix per aconseguir una millor experiència per als escacs.
 
 
-c)millora l'interfaz
+
+c)Millora de la interfície dels escacs.
 
 2)
 
-a) les millores son d'interfaz grafica i dona serveis com donarse de baixa
+a) Les millores sense interfície gràfica i dona serveis com donar-se de baixa.
 
 
-b) El sistema funciona amb un software, dockers
+b) El sistema funciona amb un software, dockers, amb base de dades per guardar la informacio dels usuaris.
 
-c) Cualsevol persona que sapiga entrar al lloc, per la rao de entreteniment o deport o per comparativa dels serveis e interficie grafica.
+c) Qualsevol persona que sàpiga entrar al lloc, per la raó d'entreteniment o esport o per comparativa dels serveis i interfície gràfica.
 
 3)
 
-a)
+a) Entra la part que és el sistema i no el joc, és a dir que no m'inventaré maneres de jugar als escacs inexistents o tipus de peces noves, i el sistema és tot el conjunt de components que conté el meu projecte.
 
-(Organizacion) 
-Software para controlar a los usuarios comparado con la partida, elimina o añade los usuarios, el ajedrez sera controlado por Lichess que gestionara las reglas, el comportamiento de las piesas
-
-El software sera para dar de baja a los clientes o insertar usuarios
-El docker representara el usuario para la provacion de insercion e inicio de sesion
-
-
-
-
-
-
-
-
-
-
-Contexto
-Tenemos un ajedrez un club de ajedrez online, pero tenia una cierta cantidad de lag que me hacia perder 0,3 segundos por jugada haciendolo mas impresiso de lo normal
+b) Es farà posteriorment el component dels escacs, la normativa i peces no me les inventaré.
 
 ### [KATAL](https://github.com/ikeerrivass/KATAL)
 
