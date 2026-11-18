@@ -8,29 +8,23 @@ Llista de projectes d'SMX2C del curs 2026-2027.
   - [Ro-Chess](#Ro-Chess), [ro-chess.cat](https://ro-chess.cat)
   - [Katal](#Katal), [katal.cat](https://katal.cat)
 
-### FerroNetwork
+### [FerroNetwork](https://github.com/LGZV1/projecte-smx2c-2026-2027.git)
 
 Santi Osella y Lucas Gagliano · SMX2 · INS Palamós
-![Ferronetwork](image.png)
+![Ferronetwork](image.png) 
 
-FerroNetwork es una compañia de servicios (ya escogeremos de que) con una Intraned en la cual se basa este proyecto, la gracia del proyecto sera hacer dos servidores que puedan compartir informacion entre ellos y que solo se puedan conectar usuarios especializados desde un sitio permitido por la FerroNetwork.
+### 1. Que va el projecte
+FerroNetwork és una companyia a gran escala que que s'encarrega del serveis de seguretat i ciberseguretat centrat en l'àmbit tecnològic i físic de la seguretat, per a demostrar com funciona la companyia els mostrarem com funciona internament FerroNetwork
 
-En la intraned de FerroNetwork se permitira que los usaurios dentro de ella puedan usar varias herramientas para poder trabajar entre ellos sin tener que acceder a drive, gmail o plataformas externas donde se pueda filtrar informacion o que otras compañias puedan verla y copiarla 
+El sistema que implementem es diu "eye hunter" és un conjunt de normes al costat de mesures de seguretat per a evitar molts problemes de bretxes de seguretat (físiques/digítale) o filtracions d'informació rellevant a part de garantir algunes mesures de defensa físiques tecnològiques avançades connectades amb la xarxa. Aquest sistema compleix els requisits necessaris per a donar una major seguretat als teus districtes i a la teva xarxa empresarial.
 
-Todo lo que abarca:
+Pel costat digital el principal que tenim per a l'empresa és una Intranet que dona a servidors la possibilitat que puguin compartir informació entre ells i que només es puguin connectar usuaris específics des d'un lloc permès per la seva empresa ja sigui: països, pobles ciutats o zones més concretament districtes o edificis.
 
-Una Intraned entre servidores.
+Coses que no inclou el projecte, la forma de treball dels treballadors no és part de la nostra responsabilitat com a empresa ja que nosaltres ens encarreguem de protegir i assegurar la informació a part brindant algunes eines però no optimitzem la manera de treballar de la gent ni l'ordre dels treballadors o en canvi si l'empresa necessita ajuda per qualsevol tema de seguretat o que necessitin una explicació per als treballadors podrem oferir un petit curs i a part d'uns pdf d'instruccions
 
-VPN's de varios luagres para mayor seguirdad (Proton).
+en principi el no hi hauria res posterior i en altres empreses depèn de la manera de treballar ja podríem adaptar el "eye hunter"
 
-Cortafuegos para evitar el robo de dato (Huntress).
 
-Cifrado con codifo SALT para evitar que los datos que sean robados sean entendibles.
-
-Tambien un lugar agradable para trabajar de forma compartida con los otros trabajadores online gracias a herramientas de trabajo online usaremos atlassian.
-
-Tendremos tambien una pagina para alguna posible solicitud o venta de algo.
-### [Gymzero](https://github.com/janpalahi-commits/GYM-ZERO)
 
 Jan Palahí · SMX2 · INS Palamós
 
